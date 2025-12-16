@@ -16,8 +16,7 @@ using OWASP ZAP.
 - Security Assessment Report (PDF)
 - OWASP Top 10 Mapping
 - ZAP Scan Report
-- Screenshots of vulnerabilities
-
+  
 ## Disclaimer
 This project was conducted strictly for educational purposes on an
 intentionally vulnerable application.
